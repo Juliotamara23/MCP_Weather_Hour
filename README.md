@@ -38,7 +38,7 @@ Asegúrate de tener **Node.js**, **npm**, **Python 3.9+** y **Ollama** instalado
 
 ```bash
 git clone https://github.com/Juliotamara23/MCP_Weather_Hour.git>
-cd <MCP_Weather_Hour>
+cd MCP_Weather_Hour
 ```
 
 ### 2. Configurar el servidor MCP (TypeScript)
